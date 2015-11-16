@@ -9,3 +9,6 @@ Data source fetcher for topology internet data (**traceroute** and **BGP**)
 
 
 > Notice: this program fetches the *ENTIRE INTERNET TOPOLOGY* from sources. Use it carefully and only if you know what you are doing.
+
+---
+©2010
